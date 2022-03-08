@@ -1,0 +1,31 @@
+{
+  "buyer": {
+    "id": 2550,
+    "uid": "thuy+exam11@podfoods.co",
+    "email": "thuy+exam11@podfoods.co",
+    "provider": "email",
+    "first_name": "exam",
+    "last_name": "chicago3",
+    "contact_number": "1234567895",
+    "image": null,
+    "sub_buyer": false,
+    "invoice_only": true,
+    "stripe_customer_id": "cus_LEZatn4u2bO01T",
+    "did_agree_to_terms": true,
+    "store_id": 2405,
+    "store_name": "exam store",
+    "buyer_company_id": 2170,
+    "buyer_company_name": "exam buyer company",
+    "buyer_company_approved": true,
+    "buyer_company_onboarding_step": null,
+    "buyer_email_group_ids": [
+      1,
+      2
+    ],
+    "uneditable_email_group_ids": [],
+    "plaid": {
+      "public_token": null,
+      "status": null
+    }
+  }
+}
